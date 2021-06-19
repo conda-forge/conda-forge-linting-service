@@ -1,0 +1,17 @@
+package:
+  name: good_recipe
+  version: 1
+
+build:
+  number: 0
+
+test: {}
+
+about:
+  home: https://github.com/conda-forge/conda-forge-linting-service
+  license: BSD 3-clause
+  summary: A test recipe not for linting
+
+extra:
+  recipe-maintainers:
+    - pelson
